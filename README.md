@@ -8,6 +8,9 @@
 - 💬 Ask me about anything! 🤗
 - 😄 Pronouns: He/ Him
 
+## Codewars
+<img src="https://www.codewars.com/users/itizarsa/badges/large" />
+
 ### Connect with me
 
 [<img height="50" src="https://github.com/itizarsa/assets/blob/main/gmail.png" />][gmail]
