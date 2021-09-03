@@ -3,7 +3,7 @@
 		src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
 		width="30"
 	/>
-	Hey! Nice to see you.
+	Howdy!
 </h1>
 
 <p><b>I'm Arshath, Fullstack developer from Chennai, India.</b></p>
