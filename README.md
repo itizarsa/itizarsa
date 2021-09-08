@@ -8,7 +8,7 @@
 
 ---
 
-<p align="center">I'm a Node.js Developer at [Spritle](https://www.spritle.com/) working on building API, Dashboards & Integrations.</p>
+<p align="center">I'm a Node.js Developer at <a href="https://www.spritle.com">Spritle</a> working on building API, Dashboards & Integrations.</p>
 
 <br />
 
