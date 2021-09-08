@@ -1,23 +1,18 @@
-<h1>
-	<img
-		src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"
-		width="30"
-	/>
-	Howdy!
-</h1>
+<h3 align="center">👋 Hi, I'm Arshath.</h3>
 
-<p><b>I'm Arshath, Fullstack developer from Chennai, India.</b></p>
+<p align="center">
+  <a href="https://arshath.vercel.app/">Website</a> •
+  <a href="https://www.linkedin.com/in/itizarsa">Linkedin</a> •
+  <a href="https://twitter.com/itizarsa">Twitter</a>
+</p>
 
-<ul>
-	<li>🔭 I’m currently looking for some interesting projects to work!</li>
-	<li>🌱 I’m currently expanding my knowledge in Node.js and System Design 🚀</li>
-	<li>👯 I’m looking to collaborate on Open Source Projects 💖</li>
-	<li>😄 Pronouns: He/ Him</li>
-</ul>
+---
 
-<h3>Things I code with</h3>
+<p align="center">I'm a Node.js Developer at [Spritle](https://www.spritle.com/) working on building API, Dashboards & Integrations.</p>
 
-<p>
+<br />
+
+<p align="center">
 
 <!-- HTML5 -->
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -64,38 +59,4 @@
 <!-- Git -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
-</p>
-
-<h3>Where to find me</h3>
-<p>
-	<a href="mailto:itizarsa@gmail.com" target="_blank"
-		><img
-			alt="Gmail"
-			src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-	/></a>
-	<a href="https://github.com/itizarsa" target="_blank"
-		><img
-			alt="Github"
-			src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
-	/></a>
-	<a href="https://twitter.com/itizarsa" target="_blank"
-		><img
-			alt="Twitter"
-			src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"
-	/></a>
-	<a href="https://www.linkedin.com/in/itizarsa" target="_blank"
-		><img
-			alt="LinkedIn"
-			src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"
-	/></a>
-	<a href="https://instagram.com/itizarsa" target="_blank"
-		><img
-			alt="Instagram"
-			src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-	/></a>
-	<a href="https://facebook.com/itizarsa" target="_blank"
-		><img
-			alt="Facebook"
-			src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-	/></a>
 </p>
