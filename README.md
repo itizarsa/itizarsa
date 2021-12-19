@@ -1,4 +1,5 @@
-<h3 align="center">👋 Hi, I'm Arshath.</h3>
+<h3 align="center">👋 Hi, I'm Arshath</h3>
+<h6 align="center">I know a little about a lot of things in Tech</h6>
 
 <p align="center">
   <a href="https://arshath.vercel.app/">Website</a> •
@@ -8,7 +9,7 @@
 
 ---
 
-<p align="center">I'm a Node.js Developer at <a href="https://www.spritle.com">Spritle</a> working on building API, Dashboards & Integrations.</p>
+<h4 align="center">Full-Stack developer with proven experience in all phases of the development life cycle including Front-End, Back-End, Database, Testing, Deployment, Maintenance & Support</h4>
 
 <br />
 
@@ -37,9 +38,6 @@
 
 <!-- Node.js -->
 <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-
-<!-- NPM -->
-<img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
     
 <!-- Nest.js -->
 <img alt="Nest.js" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
@@ -52,9 +50,6 @@
 
 <!-- VS Code -->
 <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
-<!-- Prettier -->
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=white" />
 
 <!-- Git -->
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
