@@ -9,7 +9,7 @@
 
 ---
 
-<h4 align="center">Full-Stack developer with proven experience in all phases of the development life cycle including Front-End, Back-End, Database, Testing, Deployment, Maintenance & Support</h4>
+<h4 align="center">Software Engineer with proven experience in Back-End, Database, Testing & Deployment</h4>
 
 <br />
 
