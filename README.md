@@ -3,8 +3,7 @@
 
 <p align="center">
   <a href="https://arshath.vercel.app/">Website</a> •
-  <a href="https://www.linkedin.com/in/itizarsa">Linkedin</a> •
-  <a href="https://twitter.com/itizarsa">Twitter</a>
+  <a href="https://www.linkedin.com/in/itizarsa">Linkedin</a>
 </p>
 
 ---
