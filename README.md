@@ -26,14 +26,20 @@
 <!-- Nest.js -->
 <img alt="Nest.js" src="https://img.shields.io/badge/-NestJs-ea2845?style=for-the-badge&logo=nestjs&logoColor=white" />
 
-<!-- MongoDb -->
-<img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+<!-- Java -->
+<img alt="Java" src="https://img.shields.io/badge/Java-blue?style=for-the-badge" />
+
+<!-- Spring Boot -->
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-grey?style=for-the-badge&logo=springboot&logoColor=green" />
 
 <!-- PostgreSQL -->
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-007ACC?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <!-- Firebase -->
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=black" />
+
+<!-- MongoDb -->
+<img alt="MongoDb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
 <!-- Docker -->
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
