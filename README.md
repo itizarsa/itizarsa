@@ -8,7 +8,7 @@
 
 ---
 
-<h4 align="center">Senior Software Developer with 4+ years of experience building and leading high-impact projects. Expertise in backend development, cloud migration, and API integrations. Successfully implemented a push notification system saving $100k annually. Passionate about team upskilling, best practices, and driving efficiency through innovative solutions.</h4>
+<h4 align="center">Senior Software Engineer with 4+ years of experience building scalable distributed systems and leading high-impact projects. Successfully led cloud migrations, implemented cost-saving solutions ($100K annually), improved system reliability and performance. Passionate about technical excellence and driving innovation.</h4>
 
 <br />
 
